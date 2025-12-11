@@ -19,19 +19,24 @@ To ensure the accuracy and consistency of the automated output, we conduct manua
 We perform background research and cross-check policy content with publicly available sources to ensure a thorough and objective evaluation.
 
 ## 📁 Project Structure
-project/
-│
-├── data/
-│   ├── google_document_scores.csv
-│   
-│   └── final_scores.csv  (Final scores based on all indicators)
-│
-├── scripts/
-│   ├── document_scanner.py      (Automated document scanning script)
-│   ├── analysis.ipynb           (Statistical analysis and visualization)
-│   └── utils/                   (Helper functions)
-│
-└── README.md
+
+project/  
+│  
+├── data/  
+│   ├── google_document_scores.csv     
+│   ├── google_segmentation.csv      
+│   ├── openai_document_scores.csv   
+│   └── openai_segmentation.csv     
+│  
+├── scripts/  
+│   ├── add.py                      
+│   ├── scraping.py                 
+│   ├── visualization_google.ipynb  
+│   └── visualization_openai.ipynb   
+│  
+└── README.md  
+
+
 
 ## 📚 Reference Materials
 
