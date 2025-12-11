@@ -30,7 +30,7 @@ project/
 │  
 ├── scripts/  
 │   ├── add.py                      
-│   ├── scraping.py                 
+│   ├── scraping.py                  
 │   ├── visualization_google.ipynb  
 │   └── visualization_openai.ipynb   
 │  
