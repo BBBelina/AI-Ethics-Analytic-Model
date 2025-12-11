@@ -25,8 +25,8 @@ project/
 ├── data/  
 │   ├── google_document_scores.csv     
 │   ├── google_segmentation.csv      
-│   ├── openai_document_scores.csv   
-│   └── openai_segmentation.csv     
+│   ├── openai_document_scores.csv    
+│   └── openai_segmentation.csv      
 │  
 ├── scripts/  
 │   ├── add.py                      
